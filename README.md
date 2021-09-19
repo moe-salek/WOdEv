@@ -21,7 +21,7 @@ pip install wodev
 ## Usage
 
 ```bash
-$ woodev
+$ wodev
 
 # e.g. output:
 # first week: 1400-06-22,
