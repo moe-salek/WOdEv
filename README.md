@@ -1,7 +1,7 @@
 # WOdEv
 Week Odd (or) Even
 
-A useful tool for people who label odd/even weeks in their schedule.
+A useful command-line tool for people who label odd/even weeks in their schedule.
 
 The default calendar is [Jalali](https://en.wikipedia.org/wiki/Jalali_calendar).
 
